@@ -1,19 +1,3 @@
-# bug-demo
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Modal bug复现
+## bug说明：
+ footer中有loading状态的button时，自定义dialogStyle失效
